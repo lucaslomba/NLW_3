@@ -27,11 +27,11 @@ happy is a project that aims to help people, find orphanages and children's home
 
 This project was developed with the following technologies:
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- Node JS
+- TypeScript
+- React
+- React Native
+- Expo
 
 ## :information_source: How To Use
 
