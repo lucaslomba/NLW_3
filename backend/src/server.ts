@@ -1,4 +1,7 @@
 import express from 'express'
+import 'express-async-errors'
+
+import path from 'path'
 
 // importando o database
 import './database/connection'
@@ -6,11 +9,16 @@ import './database/connection'
 // importando rotas
 import routes from './routes'
 
+// erros
+import errorHandler from './errors/handler'
+
 const app = express();
 
 // express aceitar JSON
 app.use(express.json())
 app.use(routes)
+app.use('/uploads', express.static(path.join(__dirname, '..', 'uploads')))
+app.use(errorHandler)
 
 app.listen(3333)
 
