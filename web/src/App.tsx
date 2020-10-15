@@ -2,6 +2,7 @@ import React from 'react';
 
 // importantdo css
 import './styles/global.css'
+import 'leaflet/dist/leaflet.css'
 
 // importando as rotas
 import Routes from './routes'
