@@ -23,6 +23,10 @@ An online and completely free event that will help you take the next step in you
 
 happy is a project that aims to help people, find orphanages and children's homes, passing on information such as location and how to help this place
 
+### Layout Figma 
+- <a href="https://www.figma.com/file/cLVBjKHy7GXhDVHorU78il/Happy-Web?node-id=0%3A1&viewport=144%2C175%2C0.12396290153265">Layout web</a>
+- Dia 2: Olhando as oportunidades 13/10 - :heavy_check_mark:
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
