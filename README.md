@@ -23,6 +23,9 @@ An online and completely free event that will help you take the next step in you
 
 happy is a project that aims to help people, find orphanages and children's homes, passing on information such as location and how to help this place
 
+### Event e-book
+- <a href="https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW.pdf">Open eBook</a>
+
 ### Layout Figma 
 - <a href="https://www.figma.com/file/cLVBjKHy7GXhDVHorU78il/Happy-Web?node-id=0%3A1&viewport=144%2C175%2C0.12396290153265">Layout web</a>
 - <a href="https://www.figma.com/file/qJl9iQG0QJrtbaRmqnFKEU/Happy-Mobile?node-id=0%3A1&viewport=541%2C-910%2C0.4622587263584137">Layout mobile</a>
