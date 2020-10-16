@@ -25,7 +25,7 @@ happy is a project that aims to help people, find orphanages and children's home
 
 ### Layout Figma 
 - <a href="https://www.figma.com/file/cLVBjKHy7GXhDVHorU78il/Happy-Web?node-id=0%3A1&viewport=144%2C175%2C0.12396290153265">Layout web</a>
-- Dia 2: Olhando as oportunidades 13/10 - :heavy_check_mark:
+- <a href="https://www.figma.com/file/qJl9iQG0QJrtbaRmqnFKEU/Happy-Mobile?node-id=0%3A1&viewport=541%2C-910%2C0.4622587263584137">Layout mobile</a>
 
 ## :rocket: Technologies
 
